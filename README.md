@@ -8,6 +8,12 @@ A lightweight utility to calculate the **Highest Common Factor (HCF)**, also kno
 npm install get-hcf
 ```
 
+or with Yarn:
+
+```bash
+yarn add get-hcf
+```
+
 ## Usage
 
 ```js
