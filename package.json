@@ -1,0 +1,22 @@
+{
+  "name": "get-hcf",
+  "version": "1.0.0",
+  "description": "Compute the Highest Common Factor (HCF / GCD) of two integers",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "hcf",
+    "gcd",
+    "highest common factor",
+    "greatest common divisor",
+    "math",
+    "number theory"
+  ],
+  "author": "John Akindipe <akindipejohn2017@gmail.com>",
+  "license": "ISC",
+  "files": [
+    "index.js"
+  ]
+}
